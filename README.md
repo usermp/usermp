@@ -1,7 +1,7 @@
 #### Hi there 👋
 ## My nam is Mohammad
 #### Backend Developer form iran/alborz
-##### skills : Laravel | php | Mysql | Restfull | Redis 
+##### skills : Laravel | php | Mysql | Restful | Redis 
 ##### (4) year experiance php | laravel 
 
 
