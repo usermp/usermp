@@ -10,6 +10,6 @@ I'm a dedicated Backend Developer with over 5 years of experience in crafting we
 
 - 🛠️ **CI/CD Enthusiast**: I embrace Continuous Integration/Continuous Deployment (CI/CD) practices to streamline software delivery, ensuring that changes are deployed quickly and reliably.
 
-- 📦 **Open Source Advocate**: I'm a strong advocate of open source software and believe in giving back to the community. You can find some of my contributions right here on GitHub.
+- 📦 **Open Source Advocate**: I'm a strong advocate of open source software and believe in giving back to the community.
 
 Feel free to explore my repositories, and don't hesitate to reach out if you have any questions, ideas, or opportunities to collaborate. Let's connect and make the web a better place together! 🌐
