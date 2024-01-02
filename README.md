@@ -1,6 +1,6 @@
 # Hello, I'm Mohammad! 👋
 
-I'm a dedicated Backend Developer with over 5 years of experience in crafting web applications that drive business success. My passion lies in creating efficient, reliable, and scalable solutions. Here's a bit about what I bring to the table:
+I'm a dedicated Backend Developer with over 7 years of experience in crafting web applications that drive business success. My passion lies in creating efficient, reliable, and scalable solutions. Here's a bit about what I bring to the table:
 
 - 💼 **Professional Expertise**: Proficient in PHP and Laravel, I'm well-versed in Object-Oriented Programming (OOP), Model-View-Controller (MVC) architecture, and both relational (MySQL) and NoSQL databases. 
 
